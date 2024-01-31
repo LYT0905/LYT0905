@@ -1,4 +1,4 @@
-<div style="center" size="100px">### println("Hello, World") 👋</div>
+println("Hello, World") 👋
 
 
 <!--**LYT0905/LYT0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:-->
 
 
 ![LYT0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYT0905&show_icons=true&theme=tokyonight)
+
+![](https://visitor-badge.glitch.me/badge?page_id=LYT0905.readme)
