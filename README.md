@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+## Github Stats 
 ![LYT0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYT0905&show_icons=true&theme=tokyonight)
 
 <div align="center">
@@ -91,22 +91,10 @@ Here are some ideas to get you started:-->
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LYT0905&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
-
   
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
