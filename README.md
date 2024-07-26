@@ -10,6 +10,7 @@ Here are some ideas to get you started:-->
 ![Static Badge](https://img.shields.io/badge/-Java-red)   ![Static Badge](https://img.shields.io/badge/-JavaScript-yellow)  ![Static Badge](https://img.shields.io/badge/-css-blue)  ![Static Badge](https://img.shields.io/badge/-HTML5-green)  ![Static Badge](https://img.shields.io/badge/-Redis-red)  ![Static Badge](https://img.shields.io/badge/-MySQL-yellow) ![Static Badge](https://img.shields.io/badge/-Spring-green) ![Static Badge](https://img.shields.io/badge/-Linux-white)  ![Static Badge](https://img.shields.io/badge/-Git-red)
 ## Connect with me
 ![Static Badge](https://img.shields.io/badge/WeChat-lyt2713204748-green)  ![Static Badge](https://img.shields.io/badge/QQ-2713204748-balck)
+![Static Badge](https://img.shields.io/badge/公众号-CodingHub-green)
 
 
 
